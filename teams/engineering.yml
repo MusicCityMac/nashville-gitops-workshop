@@ -12,6 +12,7 @@ policies:
   - path: ../lib/macos/policies/macos-device-health.policies.yml
   - path: ../lib/all/queries/collect-usb-devices.queries.yml
   - path: ../lib/all/queries/collect-failed-login-attempts.queries.yml
+  - path: ../lib/macos/policies/dns-resolvers.policies.yml
 queries:
 agent_options:
   path: ../lib/agent-options.yml
