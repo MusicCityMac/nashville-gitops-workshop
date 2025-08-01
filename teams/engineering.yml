@@ -30,7 +30,7 @@ controls:
   software:
     packages:
       - path: ../lib/macos/software/zoom.yml
-      - path: ../lib/windows/cloudflare-warp.yml
+      - path: ../lib/windows/software/cloudflare-warp.yml
 team_settings:
   secrets:
     - secret: "$FLEET_ENGINEERING_ENROLL_SECRET"
